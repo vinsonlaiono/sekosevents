@@ -1,0 +1,17 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                if(!window.__td){window.__MT=100;window.__ti=0;window.__td=[];window.__td.length=window.__MT;window.__noTrace=false;}(function $vpfn_ZEQ2l9tqd$5HoeHSya89Ig1$1($j)
+{if(!window.__noTrace){__td[__ti]=arguments;__ti=__ti>=__MT?0:__ti+1;}
+$j(document).ready(function $vpfn_ZEQ2l9tqd$5HoeHSya89Ig3$23()
+{if(!window.__noTrace){__td[__ti]=arguments;__ti=__ti>=__MT?0:__ti+1;}
+
+$j("a[rel^='sw_lightbox']").sw_lightbox({
+
+box_background_color:"Black",
+overlay_color:"Gray",
+caption_text_color:"White",
+caption_overlay_color:"Black",
+animation_speed:400,
+autoplay:false,
+slideshow_speed:3000
+});
+});
+})(jQuery);
